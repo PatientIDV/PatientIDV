@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.ibb.co/gbHCKHx4/Ada-Mesmer-and-Emile-First-look-at-blow-kiss-emote.jpg" alt="hi">
+</p>
+<p align="center">
+Archie　ₒᵣ　Sannie　,　16yo　,　DiDsystem　,　tkn x2
+</p>
+<p align="center">
+usually　offtab　or　afk　,　pls　w2i　or　i　wont　see　!
+<p align="center">
+C+H　are　always　welcome　,　i　have　touch　comfort　:3 
+</p>
+<p align="center">
+im　tha　#1　emil　,　siwan　,　and　whj　fan　ever　...
+</p>
 
-<!--
-**PatientIDV/PatientIDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
